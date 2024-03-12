@@ -1,0 +1,12 @@
+.ds-item {
+    background-color: rgb(220, 232, 112);
+}
+
+.span-item {
+    font-weight: 700;
+    color: chocolate;
+}
+
+.button {
+    float: right;
+}
